@@ -10,9 +10,13 @@ system is also more efficient than MapReduce for complex applications running on
 disk. for more details, go to [spark docs](https://spark.apache.org/docs/latest/)
 ## setup Apache Spark in linux Ubuntu
 spark is built to run in scala (JVM language) so at the first you must install JDK and Scala in your machine\
-**First**, Update the package index by in your terminal typing:
+**First**, update the package index by in your terminal typing:
 
 ```
 sudo apt-get update
 ```
 Now you can install the JDK with the following command:
+
+```
+sudo apt-get install default-jdk
+```
