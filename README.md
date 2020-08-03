@@ -11,6 +11,8 @@ disk. for more details, go to [spark docs](https://spark.apache.org/docs/latest/
 ## setup Apache Spark in linux Ubuntu
 spark is built to run in scala (JVM language) so at the first you must install JDK and Scala in your machine 
 1- Update the package index by in your terminal typing:
-,,,
-  sudo apt-get update
-,,,
+
+```
+ sudo apt-get update
+
+```
