@@ -1,2 +1,2 @@
-# WordCount-using-spark-
+# Spark Applications
 WordCount using spark 
