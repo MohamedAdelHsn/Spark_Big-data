@@ -1,2 +1,2 @@
 # Spark Applications
-## 1- WordCount Application
+## setup spark in linux Ubuntu
