@@ -35,9 +35,10 @@ You can then quit the Scala REPL with
 ```
 :q
 ```
-3- **install Spark**
+3- install Spark
 
 Next its time to install Spark. We need git for this, so in your terminal type:
 ```
 sudo apt-get install git
 ```
+Next, go to (https://spark.apache.org/downloads.html) and download a pre-built for Hadoop 2.7 version of Spark (preferably Spark 2.0 or later). Then download the .tgz file and remember where you save it on your computer.
