@@ -15,8 +15,12 @@ spark is built to run in scala (JVM language) so at the first you must install J
 ```
 sudo apt-get update
 ```
-Now you can install the JDK with the following command:
+1- Now you can install the JDK with the following command:
 
 ```
 sudo apt-get install default-jdk
+```
+2- install scala
+```
+sudo apt-get install scala
 ```
