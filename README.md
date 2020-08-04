@@ -25,3 +25,13 @@ sudo apt-get install default-jdk
 sudo apt-get install scala
 ```
 After installing scala try typing in terminal **scala**
+
+try HelloWorld
+```scala
+println("Hello World !")
+```
+
+You can then quit the Scala REPL with
+```
+:q
+```
